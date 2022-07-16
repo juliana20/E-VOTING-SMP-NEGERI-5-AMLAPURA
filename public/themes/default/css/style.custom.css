@@ -1,0 +1,16 @@
+.form-group {
+    margin-bottom: 8px!important;
+}
+
+.select2-container--default .select2-selection--single {
+    border-radius: 0px!important;
+    border: 1px solid #d2d6de!important;
+}
+
+.select2-container .select2-selection--single {
+    height: 34px!important;
+}
+
+.select2-container--default .select2-selection--single, .select2-selection .select2-selection--single {
+    padding: 6px 3px!important;
+}
